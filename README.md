@@ -34,6 +34,9 @@ Comming Soon ....
 ## Resources
 
 http://guides.rubyonrails.org/index.html
+
 http://ruby-doc.org/core-2.2.2/
+
 http://mixandgo.com/blog/mastering-ruby-blocks-in-less-than-5-minutes
+
 http://www.rubyinside.com/
