@@ -11,7 +11,7 @@ Our [course agenda](https://codingdojo-dallas.slack.com/files/katemoc/F38F5FBJA/
 ## Setup
  1. Fork this repo to your github account
  2. Clone it locally onto your laptop using source tree
- 3. Add *this* (https://github.com/dallaspythondojo/nice) repo as a REMOTE to your locally cloned copy.
+ 3. Add *this* (https://github.com/CodingDojoDallas/ruby_dec_16) repo as a REMOTE to your locally cloned copy.
  4. Profit!
  5. Possibly get cupcakes.
 
