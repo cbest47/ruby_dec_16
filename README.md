@@ -29,7 +29,8 @@ NOTE: If you don't get in at least one pull request daily, then *_ya ain't serio
 
 ## Videos
 
-Comming Soon ....
+Bank Account OOP - https://youtu.be/p4t1-0Gvl6Y
+Ruby TDD - https://youtu.be/YSVnP5p9ly0
 
 ## Resources
 

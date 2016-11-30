@@ -68,4 +68,10 @@ class BankAccount
 			(0...11).each {@account_number += rand(0...9).to_s}
 		end
 end
+<<<<<<< HEAD
 
+=======
+a = BankAccount.new
+b = BankAccount.new
+BankAccount.total_accounts
+>>>>>>> upstream/master
