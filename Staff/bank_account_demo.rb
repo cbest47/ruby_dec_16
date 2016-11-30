@@ -1,5 +1,5 @@
 class BankAccount
-	@total_accounts = 0
+	@@total_accounts = 0
 
 	attr_reader :account_number, :checking, :savings
 
@@ -8,7 +8,7 @@ class BankAccount
 		set_account_number
 		@checking = 0.0
 		@savings = 0.0
-		self.class.total_accounts += 1
+		@@total_accounts += 1
 	end
 	def check_balance(account)
 		account.downcase!
