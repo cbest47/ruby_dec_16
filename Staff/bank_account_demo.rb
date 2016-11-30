@@ -67,4 +67,4 @@ class BankAccount
 end
 a = BankAccount.new
 b = BankAccount.new
-p BankAccount.total_accounts
+BankAccount.total_accounts
