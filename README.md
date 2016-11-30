@@ -31,6 +31,7 @@ NOTE: If you don't get in at least one pull request daily, then *_ya ain't serio
 
 Bank Account OOP - https://youtu.be/p4t1-0Gvl6Y
 Ruby TDD - https://youtu.be/YSVnP5p9ly0
+Bank Account TDD - https://youtu.be/lNOHQzmf5yk
 
 ## Resources
 
