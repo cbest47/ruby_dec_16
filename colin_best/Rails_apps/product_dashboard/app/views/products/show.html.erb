@@ -1,0 +1,11 @@
+<h1>Here is the product you wanted to see!</h1>
+Name: <%= @product.name %> <br />
+Description: <%= @product.description %> <br />
+Price: <%= @product.price %> <br />
+<%= link_to 'back', :back %>
+
+
+Comments: <br />
+<% @comments.each do |comment| %>
+  <p><%= comment.comment %></p>
+<% end %>

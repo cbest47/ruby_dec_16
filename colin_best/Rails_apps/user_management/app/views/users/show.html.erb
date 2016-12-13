@@ -1,0 +1,14 @@
+<h1>Here is the contact you asked for</h1>
+
+<div>
+First Name <%= @user.first_name %> </br>
+Last Name <%= @user.last_name %> </br>
+Email address <%= @user.email_address %> </br>
+Password <%= @user.password %> </br>
+
+<%= link_to "edit", edit_user_path(@user) %> </br>
+<%= link_to "back", :back %> </br>
+
+
+
+</div>
